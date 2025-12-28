@@ -15,4 +15,6 @@ here is a list of the supported websites:
 - tiktok
 - youtube shorts
 - instagram reels
+
+the logo has been created with lucide icons
   
