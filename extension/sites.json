@@ -1,0 +1,25 @@
+{
+    "sites": [
+        {
+            "name": "TikTok",
+            "domain": "tiktok.com",
+            "url": "tiktok.com",
+            "type": "domain",
+            "code": "tiktok"
+        },
+        {
+            "name": "YouTube Shorts",
+            "domain": "youtube.com",
+            "url": "youtube.com/shorts",
+            "type": "url",
+            "code": "yt-shorts"
+        },
+        {
+            "name": "Instagram Reels",
+            "domain": "instagram.com",
+            "url": "instagram.com/reels",
+            "type": "url",
+            "code": "ig-reels"
+        }
+    ]
+}
